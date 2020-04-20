@@ -1,0 +1,158 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Sea Shanty 2",
+  "_songSubName": "",
+  "_songAuthorName": "Ian Taylor",
+  "_levelAuthorName": "CyanSnow",
+  "_beatsPerMinute": 100,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 2,
+  "_previewDuration": 13,
+  "_songFilename": "dlong.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper",
+        "_name": "CyanSnow",
+        "_iconPath": "cyan.png"
+      }
+    ]
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Bronze",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_information": [
+              "Requires level 1 attack"
+            ],
+            "_colorLeft": {
+              "r": 0.7454041838645935,
+              "g": 0.40724021196365356,
+              "b": 0.039546236395835876
+            },
+            "_envColorLeft": {
+              "r": 0.7454041838645935,
+              "g": 0.40724021196365356,
+              "b": 0.039546236395835876
+            }
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Steel",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_information": [
+              "Requires level 5 attack"
+            ],
+            "_colorLeft": {
+              "r": 0.7529422044754028,
+              "g": 0.5307571530342102,
+              "b": 0.5872065734863281
+            },
+            "_envColorLeft": {
+              "r": 0.7529422044754028,
+              "g": 0.5307571530342102,
+              "b": 0.5872065734863281
+            }
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": -0.25,
+          "_customData": {
+            "_difficultyLabel": "Adamant",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_information": [
+              "Requires level 30 attack"
+            ],
+            "_colorRight": {
+              "r": 0.2015562504529953,
+              "g": 0.5457244515419006,
+              "b": 0.2622506618499756
+            },
+            "_envColorRight": {
+              "r": 0.2015562504529953,
+              "g": 0.5457244515419006,
+              "b": 0.2622506618499756
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_difficultyLabel": "Rune",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_information": [
+              "Requires level 40 attack"
+            ],
+            "_colorRight": {
+              "r": 0.3277781009674072,
+              "g": 0.6444796919822693,
+              "b": 0.7991027235984802
+            },
+            "_envColorRight": {
+              "r": 0.11953842639923096,
+              "g": 0.520995557308197,
+              "b": 0.715693473815918
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0.15000000596046448,
+          "_customData": {
+            "_difficultyLabel": "Dragon",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_information": [
+              "Requires level 60 attack"
+            ],
+            "_colorLeft": {
+              "r": 0.6444796919822693,
+              "g": 0.015208514407277107,
+              "b": 0
+            },
+            "_envColorLeft": {
+              "r": 0.6444796919822693,
+              "g": 0.015208514407277107,
+              "b": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}
