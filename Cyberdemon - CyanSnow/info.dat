@@ -1,0 +1,77 @@
+{
+	"_version": "2.0.0",
+	"_songName": "Cyberdemon",
+	"_songSubName": "",
+	"_songAuthorName": "Mick Gordon",
+	"_levelAuthorName": "CyanSnow",
+	"_beatsPerMinute": 179.92100524902345,
+	"_shuffle": 0,
+	"_shufflePeriod": 0.5,
+	"_previewStartTime": 12,
+	"_previewDuration": 10,
+	"_songFilename": "hell.egg",
+	"_coverImageFilename": "cover.jpg",
+	"_environmentName": "BigMirrorEnvironment",
+	"_songTimeOffset": 0,
+	"_customData": {
+		"_customEnvironment": "",
+		"_customEnvironmentHash": "",
+		"_contributors": [
+			{
+				"_role": "Mapper",
+				"_name": "CyanSnow",
+				"_iconPath": "cyan.png"
+			}
+		]
+	},
+	"_difficultyBeatmapSets": [
+		{
+			"_beatmapCharacteristicName": "Lawless",
+			"_difficultyBeatmaps": [
+				{
+					"_difficulty": "ExpertPlus",
+					"_difficultyRank": 9,
+					"_beatmapFilename": "ExpertPlus.dat",
+					"_noteJumpMovementSpeed": 19,
+					"_noteJumpStartBeatOffset": 0.5,
+					"_customData": {
+						"_difficultyLabel": "Hell",
+						"_editorOffset": 0,
+						"_editorOldOffset": 0,
+						"_colorLeft": {
+							"r": 0.509,
+							"g": 0,
+							"b": 0
+						},
+						"_colorRight": {
+							"r": 1,
+							"g": 0.3921,
+							"b": 0.0784
+						},
+						"_envColorLeft": {
+							"r": 1,
+							"g": 0,
+							"b": 0.07069587707519533
+						},
+						"_envColorRight": {
+							"r": 1,
+							"g": 0.14107830811467804,
+							"b": 0.07064014358987808
+						},
+						"_obstacleColor": {
+							"r": 0.784,
+							"g": 0,
+							"b": 0
+						},
+						"_warnings": [],
+						"_information": [],
+						"_suggestions": [],
+						"_requirements": [
+							"Mapping Extensions"
+						]
+					}
+				}
+			]
+		}
+	]
+}

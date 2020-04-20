@@ -1,0 +1,316 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Everything",
+  "_songSubName": "",
+  "_songAuthorName": "Said the Sky",
+  "_levelAuthorName": "Skyler Wallace",
+  "_beatsPerMinute": 140,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 50,
+  "_previewDuration": 12,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 11,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.82,
+              "g": 0.82,
+              "b": 0.63
+            },
+            "_colorRight": {
+              "r": 0.2,
+              "g": 0.63,
+              "b": 0.82
+            },
+            "_envColorLeft": {
+              "r": 0.94,
+              "g": 0.24,
+              "b": 0.24
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.47,
+              "b": 0.94
+            },
+            "_obstacleColor": {
+              "r": 0.39,
+              "g": 0.75,
+              "b": 0.75
+            },
+            "_warnings": [
+              "Do not use Left-Handed/Mirrored Mode"
+            ],
+            "_information": [],
+            "_suggestions": [
+              "Use No Bombs Modifier for better performance",
+              "Enable Note Debris for aesthetics for aesthetics"
+            ],
+            "_requirements": [
+              "Mapping Extensions"
+            ]
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 11,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.82,
+              "g": 0.82,
+              "b": 0.63
+            },
+            "_colorRight": {
+              "r": 0.2,
+              "g": 0.63,
+              "b": 0.82
+            },
+            "_envColorLeft": {
+              "r": 0.94,
+              "g": 0.24,
+              "b": 0.24
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.47,
+              "b": 0.94
+            },
+            "_obstacleColor": {
+              "r": 0.39,
+              "g": 0.75,
+              "b": 0.75
+            },
+            "_warnings": [
+              "Do not use Left-Handed/Mirrored Mode"
+            ],
+            "_information": [],
+            "_suggestions": [
+              "Use No Bombs Modifier for better performance",
+              "Enable Note Debris for aesthetics"
+            ],
+            "_requirements": [
+              "Mapping Extensions"
+            ]
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.82,
+              "g": 0.82,
+              "b": 0.63
+            },
+            "_colorRight": {
+              "r": 0.2,
+              "g": 0.63,
+              "b": 0.82
+            },
+            "_envColorLeft": {
+              "r": 0.94,
+              "g": 0.24,
+              "b": 0.24
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.47,
+              "b": 0.94
+            },
+            "_obstacleColor": {
+              "r": 0.39,
+              "g": 0.75,
+              "b": 0.75
+            },
+            "_warnings": [
+              "Do not use Left-Handed/Mirrored Mode"
+            ],
+            "_information": [],
+            "_suggestions": [
+              "Use No Bombs Modifier for better performance",
+              "Enable Note Debris for aesthetics"
+            ],
+            "_requirements": [
+              "Mapping Extensions"
+            ]
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.82,
+              "g": 0.82,
+              "b": 0.63
+            },
+            "_colorRight": {
+              "r": 0.2,
+              "g": 0.63,
+              "b": 0.82
+            },
+            "_envColorLeft": {
+              "r": 0.94,
+              "g": 0.24,
+              "b": 0.24
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.47,
+              "b": 0.94
+            },
+            "_obstacleColor": {
+              "r": 0.39,
+              "g": 0.75,
+              "b": 0.75
+            },
+            "_warnings": [
+              "Do not use Left-Handed/Mirrored Mode"
+            ],
+            "_information": [],
+            "_suggestions": [
+              "Use No Bombs Modifier for better performance",
+              "Enable Note Debris for aesthetics"
+            ],
+            "_requirements": [
+              "Mapping Extensions"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Lightshow",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "Lightshow.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Lightshow",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.82,
+              "g": 0.82,
+              "b": 0.63
+            },
+            "_colorRight": {
+              "r": 0.2,
+              "g": 0.63,
+              "b": 0.82
+            },
+            "_envColorLeft": {
+              "r": 0.94,
+              "g": 0.24,
+              "b": 0.24
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.47,
+              "b": 0.94
+            },
+            "_obstacleColor": {
+              "r": 0.39,
+              "g": 0.75,
+              "b": 0.75
+            },
+            "_warnings": [
+              "Do not use Left-Handed/Mirrored Mode"
+            ],
+            "_information": [],
+            "_suggestions": [
+              "Use No Bombs Modifier for better performance"
+            ],
+            "_requirements": [
+              "Mapping Extensions"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "OneSaber",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertSingle Saber.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.82,
+              "g": 0.82,
+              "b": 0.63
+            },
+            "_colorRight": {
+              "r": 0.2,
+              "g": 0.63,
+              "b": 0.82
+            },
+            "_envColorLeft": {
+              "r": 0.94,
+              "g": 0.24,
+              "b": 0.24
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.47,
+              "b": 0.94
+            },
+            "_obstacleColor": {
+              "r": 0.39,
+              "g": 0.75,
+              "b": 0.75
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [
+              "Use No Bombs Modifier for better performance",
+              "Enable Note Debris for aesthetics"
+            ],
+            "_requirements": [
+              "Mapping Extensions"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
