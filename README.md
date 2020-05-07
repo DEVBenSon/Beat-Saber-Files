@@ -16,6 +16,4 @@ This is a file list of my most played beat saber songs. Good thing to keep a lis
 
 ## Feel free to contact me
 
-Discord: https://discord.gg/bh62as6
-
 Tag: BenSon#0001
